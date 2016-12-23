@@ -1,0 +1,14 @@
+[3]
+
+[11,24,75]
+pName : MASM / TASM
+pSig : 6A00E8????0000A3????4000
+pToolTip : This Programm Coded By MASM or TASM Compiler , it's not Packed or Protected
+[25,38,70]
+pName : Microsoft Visual C++ v6.0
+pSig : 558BEC83EC4456FF15????????8BF08A??3C22
+pToolTip : This Programm Coded Microsoft Visual C++ ,it's not Packed or Protected
+[34,40,85]
+pName : Microsoft Visual Basic v5.0 - v6.0
+pSig : 68????????E8????????0000??00000030??00??
+pToolTip : This Programm Coded Microsoft Visual Basic v5.0 OR v6.0 ,it's not Packed or Protected
