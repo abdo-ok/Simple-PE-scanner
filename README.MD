@@ -1,3 +1,3 @@
-A simple scanner for PE (Portable Executable) under windows scanner to determinewhich programming language used to create an executable.
-Developed back in 2013 when I got my hands dirty with reverse engineering . 
+A simple scanner for PE (Portable Executable) under windows , to determine in which programming language used to create an exe file .
+Developed back in 2012 when I got my hands dirty with reverse engineering. 
 
